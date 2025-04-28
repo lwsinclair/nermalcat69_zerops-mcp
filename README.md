@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/mcp-mirror-nermalcat69-zerops-mcp)
+
 # GitHub MCP Server
 
 MCP Server for the GitHub API, enabling file operations, repository management, search functionality, and more.
